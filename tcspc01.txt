@@ -1,0 +1,10 @@
+Board Information Report
+Filename     : C:\Users\isili\OneDrive\Masaüstü\Altium\icas_lab\TCSPC_Project\tcspc01.PcbDoc
+Date         : 11/22/2024
+Time         : 5:18:23 AM
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 4854milsx4573mils
+    Components on board, 357
+count : 2
